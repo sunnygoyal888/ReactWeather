@@ -11,7 +11,7 @@ var Examples = () => {
           <Link to='/?location=Delhi'>Delhi, India</Link>
         </li>
         <li>
-          <Link to='/?location=amumbai'>Mumbai, India</Link>
+          <Link to='/?location=Mumbai'>Mumbai, India</Link>
         </li>
       </ol>
     </div>
